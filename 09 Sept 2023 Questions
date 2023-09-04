@@ -1,0 +1,7 @@
+1.Write aprogram to multiplly two matrices
+2.Take input from user of a string and make every word's first letter capital
+3.This is Fish find out the occurence of is take input of string and find out what he wants to find
+4.given matrix print the sum of boundry and non boundry elements
+5.print the transpose of a marix
+6.Create a java class hierarchy to represent different type of vehicles implement a base class vehicle with attributes like make model and year
+create two sublasses car and motorcycle each having additional attributes implement using methods and constructors
